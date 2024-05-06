@@ -1,0 +1,12 @@
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/bin/Debug/net6.0/ProfileImageDataAccessLayer.deps.json
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/bin/Debug/net6.0/ProfileImageDataAccessLayer.runtimeconfig.json
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/bin/Debug/net6.0/ProfileImageDataAccessLayer.dll
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/bin/Debug/net6.0/ref/ProfileImageDataAccessLayer.dll
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/bin/Debug/net6.0/ProfileImageDataAccessLayer.pdb
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/obj/Debug/net6.0/ProfileImageDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/obj/Debug/net6.0/ProfileImageDataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/obj/Debug/net6.0/ProfileImageDataAccessLayer.dll
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/obj/Debug/net6.0/ref/ProfileImageDataAccessLayer.dll
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/obj/Debug/net6.0/ProfileImageDataAccessLayer.pdb
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/obj/Debug/net6.0/ProfileImageDataAccessLayer.genruntimeconfig.cache
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageDataAccessLayer/obj/Debug/net6.0/ProfileImageDataAccessLayer.csproj.AssemblyReference.cache

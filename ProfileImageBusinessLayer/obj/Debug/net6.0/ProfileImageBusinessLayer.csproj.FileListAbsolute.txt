@@ -1,0 +1,15 @@
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/bin/Debug/net6.0/ProfileImageBusinessLayer.deps.json
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/bin/Debug/net6.0/ProfileImageBusinessLayer.runtimeconfig.json
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/bin/Debug/net6.0/ProfileImageBusinessLayer.dll
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/bin/Debug/net6.0/ref/ProfileImageBusinessLayer.dll
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/bin/Debug/net6.0/ProfileImageBusinessLayer.pdb
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/bin/Debug/net6.0/ProfileImageDataAccessLayer.dll
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/bin/Debug/net6.0/ProfileImageDataAccessLayer.pdb
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/obj/Debug/net6.0/ProfileImageBusinessLayer.csproj.AssemblyReference.cache
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/obj/Debug/net6.0/ProfileImageBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/obj/Debug/net6.0/ProfileImageBusinessLayer.csproj.CoreCompileInputs.cache
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/obj/Debug/net6.0/ProfileImageBusinessLayer.csproj.CopyComplete
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/obj/Debug/net6.0/ProfileImageBusinessLayer.dll
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/obj/Debug/net6.0/ref/ProfileImageBusinessLayer.dll
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/obj/Debug/net6.0/ProfileImageBusinessLayer.pdb
+/Users/vikas/workspace/ProfileImageAPIService/ProfileImageBusinessLayer/obj/Debug/net6.0/ProfileImageBusinessLayer.genruntimeconfig.cache
